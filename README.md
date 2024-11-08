@@ -11,13 +11,22 @@ A preprint version of the paper can be found here: [Arxiv](https://arxiv.org/abs
 ## Citation
 If you find our dataset or code helpful, kindly refer to us in your work using the following citation:
 ```
-@misc{kaffee2023article,
-      title={Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions}, 
-      author={Lucie-Aimée Kaffee and Arnav Arora and Isabelle Augenstein},
-      year={2023},
-      eprint={2310.05779},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{kaffee-etal-2023-article,
+    title = "Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual {W}ikipedia Editor Discussions",
+    author = "Kaffee, Lucie-Aim{\'e}e  and
+      Arora, Arnav  and
+      Augenstein, Isabelle",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.361",
+    doi = "10.18653/v1/2023.emnlp-main.361",
+    pages = "5891--5909"
 }
 ```
 
